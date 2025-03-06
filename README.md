@@ -12,7 +12,7 @@
 - Cybersecurity Labs & Ethical Hacking  
 
 📂 My GitHub Repositories  
-🚀 [Java-DSA-Progress](https://github.com/your-username/Java-DSA-Progress)  
+🚀 [Java-DSA-Progress](https://github.com/arunpalanivel2377/Java-Dsa-Progress)  
 🔐 [Cybersecurity-Notes](https://github.com/your-username/Cybersecurity-Notes)  
 
 ## 📫 Connect with Me  
