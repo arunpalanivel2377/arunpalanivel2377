@@ -35,10 +35,6 @@ Here are some ideas to get you started:
 
 
 
-## 📫 Connect with Me  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/u/arunpalanivel2377/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/arun-palanivel-a15848348/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/arunpalanivel2377)  
 
 
 <!--
