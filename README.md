@@ -71,7 +71,7 @@
 - 🧵 [Java-DSA-Progress](https://github.com/arunpalanivel2377/Java-Dsa-Progress)  
     Basics of Java
 
-- 🐍 [30 Days of Python](https://github.com/arunpalanivel2377/30-days-python)  
+- 🐍 [30 Days of Python](https://github.com/arunpalanivel2377/python30days)  
   Daily Python challenges to master coding and problem-solving *(in progress)*
 
 ---
