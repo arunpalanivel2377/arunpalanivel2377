@@ -18,7 +18,7 @@
 
 ### 🐍 Python
 - Completing a 30-day Python challenge to master syntax and problem-solving  
-- Building small AI/ML tools using Flask
+- Building AI/ML tools using Flask
 
 ### 🔢 Mathematics for ML
 - Completed 5 chapters of MIT 18.06 Linear Algebra  
