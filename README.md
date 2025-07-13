@@ -56,28 +56,20 @@
 
 ## 💼 Projects (In Progress)
 
-- **Flask-based Sentiment Analysis Tool**  
-  Building a web app to classify text sentiment using Scikit-learn and Flask *(ETA: Aug 2025)*
-
-- **Python Data Visualization Dashboard**  
-  Creating a dashboard with Pandas and Seaborn to analyze public datasets *(e.g., COVID-19 trends)*
+*(To be added soon)*
 
 ---
 
-## 🚀 Planned Tools
+## 🚀 Planned Tools or Products (Coming Soon)
 
-- **AI-Powered Chatbot**  
-  A Flask-based chatbot using NLP techniques *(Planned for Q4 2025)*
-
-- **ML Model Deployment Platform**  
-  A tool to simplify deploying ML models for beginners
+*(Ideas under development)*
 
 ---
 
 ## 📁 Repositories
 
 - 🧵 [Java-DSA-Progress](https://github.com/arunpalanivel2377/Java-Dsa-Progress)  
-  Solutions to DSA problems in Java — arrays, linked lists, sorting, etc.
+    Basics of Java
 
 - 🐍 [30 Days of Python](https://github.com/arunpalanivel2377/30-days-python)  
   Daily Python challenges to master coding and problem-solving *(in progress)*
